@@ -1170,3 +1170,5 @@ octave-workspace
 # Simulink autosave extension
 .autosave
 .gitignore
+
+*.docx
