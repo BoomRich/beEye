@@ -111,7 +111,7 @@
 已经完成的事情：
 
 - 提交Intel杯的各种材料
-- 已经初步具备从网络上搜索数据的能力，并且已经通过从网络数据爬去图片建					立相应的数据集合	
+ - 已经初步具备从网络上搜索数据的能力，并且已经通过从网络数据爬去图片建				立相应的数据集合	
 - 能够通过caffe的ImageNet进行训练
 
 
@@ -121,4 +121,4 @@
 - caffe的ImageNet过于复杂，其内部的层数太多，因此需要进一步简化。
 - caffe的模型调参过程仍然需要学习，各种学习算法的选取仍然不太清楚
 
-另外感觉caffe仍然有其不够灵活的时间，准备后期深入学习相关的算法(参考Stanford的CS229(Machine Leanring)和CS231N(Convolutional Neural Networks for Visual Recognition))，并转向Tensorflow平台
+另外感觉caffe仍然有其不够灵活的特点，准备后期深入学习相关的算法(参考Stanford的CS229(Machine Learning)和CS231N(Convolutional Neural Networks for Visual Recognition))，并转向Tensorflow平台
